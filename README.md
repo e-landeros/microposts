@@ -4,6 +4,16 @@ using
 >selais:accounts-entry
 allows user authentication and login with subcription services to view other users blog posts.
 users can edit and upload custom avatars 
+
+
+
+
+
+#####################################################################
+
+
+
+
 >meteor-base             # Packages every Meteor app needs to have
 mobile-experience       # Packages for a great mobile UX
 mongo                   # The database Meteor supports right now
